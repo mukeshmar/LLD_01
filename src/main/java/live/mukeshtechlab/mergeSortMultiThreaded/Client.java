@@ -1,4 +1,4 @@
-package live.mukeshtechlab.concurrency_2.MergeSortMultiThreaded;
+package live.mukeshtechlab.mergeSortMultiThreaded;
 
 import java.util.List;
 import java.util.concurrent.ExecutionException;

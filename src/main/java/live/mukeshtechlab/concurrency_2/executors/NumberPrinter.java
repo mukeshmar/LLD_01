@@ -1,4 +1,4 @@
-package live.mukeshtechlab.concurrency_2.ececutors;
+package live.mukeshtechlab.concurrency_2.executors;
 
 public class NumberPrinter implements Runnable {
     private int numberToPrint;

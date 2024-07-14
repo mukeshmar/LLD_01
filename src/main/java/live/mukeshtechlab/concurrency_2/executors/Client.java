@@ -1,4 +1,4 @@
-package live.mukeshtechlab.concurrency_2.ececutors;
+package live.mukeshtechlab.concurrency_2.executors;
 
 /*
     We are printing number 1 to 100, using ExecutorService class with 10 Threads
