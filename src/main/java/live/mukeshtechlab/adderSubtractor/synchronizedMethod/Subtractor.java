@@ -1,4 +1,4 @@
-package live.mukeshtechlab.adderSubtractor.withLock;
+package live.mukeshtechlab.adderSubtractor.synchronizedMethod;
 
 public class Subtractor implements Runnable {
     private Count count;
@@ -10,7 +10,7 @@ public class Subtractor implements Runnable {
     @Override
     public void run() {
         for (int i = 1; i <= 100000; i++) {
-            count.value -= i;
+            count.subtractValue(i);
         }
     }
 }

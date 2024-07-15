@@ -1,4 +1,4 @@
-package live.mukeshtechlab.adderSubtractor.withLock;
+package live.mukeshtechlab.adderSubtractor.withoutLock;
 
 public class Adder implements Runnable {
     private Count count;

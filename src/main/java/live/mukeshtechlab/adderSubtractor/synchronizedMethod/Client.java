@@ -1,4 +1,4 @@
-package live.mukeshtechlab.adderSubtractor.withLock;
+package live.mukeshtechlab.adderSubtractor.synchronizedMethod;
 
 public class Client {
     public static void main(String[] args) throws InterruptedException {
